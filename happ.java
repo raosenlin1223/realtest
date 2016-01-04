@@ -6,6 +6,6 @@ public class happy
 		String con = "test+test1";
 		String dev = "dev";
 		String str3 = "str3";
-
+		String cbrh = "for patch";
 	}
 }
