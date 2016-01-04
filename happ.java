@@ -4,5 +4,6 @@ public class happy
 		String master = "test1" ;
 		String branch = "test" ;
 		String con = "test+test1"
+		String dev = "dev";
 	}
 }
